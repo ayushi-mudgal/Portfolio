@@ -10,7 +10,7 @@ This portfolio showcases my projects, technical skills, and journey toward becom
 
 ## 🌐 Live Portfolio
 
-🔗 https://your-portfolio-link.com
+🔗 https://ayushi-mudgal.github.io/Portfolio/
 
 ---
 
