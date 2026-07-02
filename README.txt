@@ -79,7 +79,7 @@ End-to-end customer churn analytics project using SQL, Excel and Power BI.
 
 Repository
 
-🔗 https://github.com/ayushi-mudgal/Bank-Churn-Analysis
+🔗 https://github.com/ayushi-mudgal/bankchurnexcel
 
 ---
 
