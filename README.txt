@@ -1,31 +1,149 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 👋 Hi, I'm Ayushi Mudgal
 
+## Data Analyst | SQL | Excel | Power BI
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+Welcome to my personal portfolio website.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This portfolio showcases my projects, technical skills, and journey toward becoming a Data Analyst.
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## 🌐 Live Portfolio
 
+🔗 https://your-portfolio-link.com
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 📌 About Me
 
-	Icons:
-		Font Awesome (fontawesome.io)
+I am an aspiring Data Analyst passionate about solving business problems through data.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+I enjoy working with SQL, Excel, and Power BI to clean data, build dashboards, generate insights, and support data-driven decision making.
+
+I am currently seeking Data Analyst opportunities where I can contribute analytical skills while continuously learning.
+
+---
+
+# 🛠 Skills
+
+### SQL
+- MySQL
+- PostgreSQL
+- Joins
+- Group By
+- CTEs
+- Window Functions
+- CASE Statements
+- Views
+- Data Cleaning
+
+### Excel
+- Pivot Tables
+- Pivot Charts
+- XLOOKUP
+- Power Query
+- Dashboard Design
+- Conditional Formatting
+- Data Cleaning
+
+### Power BI
+- Data Modeling
+- DAX
+- Power Query
+- Interactive Dashboards
+- KPI Reporting
+- Bookmarks
+- Tooltips
+
+---
+
+# 📂 Projects
+
+## 1. Credit Card Customer Churn Analysis
+
+End-to-end customer churn analytics project using SQL, Excel and Power BI.
+
+### Highlights
+
+- Analyzed 10,000+ customer records
+- Designed Excel Dashboard
+- Built Power BI Dashboard
+- SQL analysis using CTEs and Window Functions
+- Generated business recommendations for reducing customer churn
+
+### Technologies
+
+- SQL
+- Excel
+- Power BI
+
+Repository
+
+🔗 https://github.com/ayushi-mudgal/Bank-Churn-Analysis
+
+---
+
+## 2. IBM HR Analytics Dashboard *(In Progress)*
+
+HR Analytics project focused on employee attrition, workforce trends, job satisfaction and HR KPIs.
+
+Status
+
+🚧 Currently Building
+
+---
+
+## 3. E-commerce Sales Analytics *(In Progress)*
+
+Sales analytics dashboard focusing on customer behaviour, sales trends and profitability.
+
+Status
+
+🚧 Currently Building
+
+---
+
+# 💻 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+- Excel
+- Power BI
+- Git
+- GitHub
+
+---
+
+# 🎯 Current Goals
+
+- Complete IBM HR Analytics Dashboard
+- Complete E-commerce Sales Dashboard
+- Strengthen SQL and Power BI skills
+- Build additional real-world analytics projects
+- Secure a Data Analyst role
+
+---
+
+# 📫 Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/ayushi-mudgal-436466417
+
+### GitHub
+
+https://github.com/ayushi-mudgal
+
+### Email
+
+tanmaymudgal011@gmail.com
+
+---
+
+## ⭐ If you like this portfolio
+
+Feel free to star the repository and connect with me on LinkedIn.
+
+Thank you for visiting!
